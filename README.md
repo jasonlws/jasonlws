@@ -4,6 +4,8 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.jasonlws.com/)](https://www.jasonlws.com/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/jasonlws?label=follow&style=social)](https://github.com/jasonlws)
 
+
+
 ## 🔧 Technologies & Tools
 
 🧑‍💻 **Programming Languages:**
@@ -20,15 +22,8 @@
 
 <!--
 **jasonlws/jasonlws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonlws&layout=compact&theme=buefy&hide_border=true" /></a>
 
-**Cloud Services:**
-
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![MSSQL](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![AWS Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
 
 Here are some ideas to get you started:
 
